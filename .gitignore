@@ -37,3 +37,6 @@ venv/
 
 # Claude Code 临时文件
 .claude/local/
+
+# WorkBuddy 本地数据（记忆/配置，私有，不入 git）
+.workbuddy/
