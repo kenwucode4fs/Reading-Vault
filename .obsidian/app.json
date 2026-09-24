@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachments",
+  "userIgnoreFilters": [
+    ".trash/"
+  ],
+  "showLineNumber": true,
+  "spellcheck": false,
+  "showFrontmatter": true
+}

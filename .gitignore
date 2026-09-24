@@ -1,0 +1,39 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/appearance.json
+.obsidian/plugins/
+.trash/
+
+# Obsidian Web Clipper 剪藏目录（原文用于参考，不入 git）
+Clippings/
+
+# 大文件类型（用 LFS 或外部存储；如需入 git 用 git add -f 强制）
+*.pdf
+*.epub
+*.mobi
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python (用于项目实验代码)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Claude Code 临时文件
+.claude/local/
